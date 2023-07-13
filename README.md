@@ -23,7 +23,7 @@
 
 - 📄 Know about my experiences [https://github.com/ArnabC27/ArnabC27/blob/main/Resume_ArnabChakraborty.pdf](https://github.com/ArnabC27/ArnabC27/blob/main/Resume_ArnabChakraborty.pdf)
 
-- ⚡ Fun fact **I love football but am a foodie too :)**
+- ⚡ Fun fact **I love Football but am a Foodie too :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
