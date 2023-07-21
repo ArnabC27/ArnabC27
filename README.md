@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **Machine Learning Projects**
 
-- 👨‍💻 All of my projects are available at [Coming Soon](Coming Soon)
+- 👨‍💻 All of my projects are available at ...
 
 - 📝 I regularly write articles on [https://dev.to/dashboard](https://dev.to/dashboard)
 
