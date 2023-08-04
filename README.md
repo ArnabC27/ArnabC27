@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Arnab Chakraborty</h1>
+<h1 align="center">Hi 👋! I'm Arnab Chakraborty</h1>
 <h3 align="center">A AI-ML Enthusiast, Data Science Passionate and Web Development Practitioner from Kolkata, India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arnabc27&label=Profile%20views&color=0e75b6&style=flat" alt="arnabc27" /> </p>
