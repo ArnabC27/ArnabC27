@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on :) 
 
-- 🌱 I’m currently learning **MERN, Machine Learning**
+- 🌱 I’m currently learning **Data Science, Machine Learning**
 
 - 👯 I’m looking to collaborate on **Machine Learning Projects**
 
