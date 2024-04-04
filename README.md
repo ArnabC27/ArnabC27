@@ -7,7 +7,7 @@
 
 <!--<p align="left"> <a href="https://twitter.com/arnabch27" target="blank"><img src="https://img.shields.io/twitter/follow/arnabch27?logo=twitter&style=for-the-badge" alt="arnabch27" /></a> </p>-->
 
-- 🔭 I’m currently working on [BookTickets App](https://github.com/ArnabC27/booktickets) 
+- 🔭 I’m currently working on [Zoom Clone](https://github.com/ArnabC27/zoom-clone) 
 
 - 🌱 I’m currently learning **Data Science, Machine Learning**
 
